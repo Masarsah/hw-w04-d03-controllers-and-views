@@ -1,0 +1,23 @@
+{
+  "name": "hw-w04-d03-controllers-and-views",
+  "version": "1.0.0",
+  "description": "i can do the hw-w04-d03-controllers-and-views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Masarsah/hw-w04-d03-controllers-and-views.git"
+  },
+  "author": "Masarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Masarsah/hw-w04-d03-controllers-and-views/issues"
+  },
+  "homepage": "https://github.com/Masarsah/hw-w04-d03-controllers-and-views#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mustache-express": "^1.2.8"
+  }
+}
